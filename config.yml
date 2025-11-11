@@ -1,4 +1,4 @@
-title: "Grace Vayisiriria"
+title: "MAGAZINI SAMI"
 baseline: "Développeur Etudiant passionné"
 description: "Développeur passionnée par la technologie, les projets innovants et le partage de connaissances."
 
@@ -30,4 +30,5 @@ menu:
       weight: 3
     - name: "Contact"
       url: "/contact/"
+
       weight: 4
